@@ -1,0 +1,21 @@
+class player
+    will have
+      -number of lives
+      - name
+      - method to remove a life
+
+question
+  -
+
+
+game class
+    - the players
+    - whos turn it is
+
+
+
+player1= palyer.new dvsdvs
+
+game1 = game.new player1, player2,
+
+game1.start
